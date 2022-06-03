@@ -1,2 +1,2 @@
 # atheists
-Forked from Luke Turner
+Abusive social media artist's website template forked from Luke Turner
